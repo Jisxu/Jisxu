@@ -1,1 +1,1 @@
-![Metrics](https://github.com/Jisxu/Jisxu/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Jisxu/Jisxu/blob/main/github-metrics.svg)
