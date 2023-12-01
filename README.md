@@ -29,10 +29,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisxu&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
